@@ -19,14 +19,13 @@
 
 <div align="center">
   <a href="https://czhao.xyz/zh" target="_blank" style="text-decoration: none;">
-    <div style="display: inline-block; background: linear-gradient(135deg, #2C7CB6 0%, #1E5A8A 100%); border-radius: 12px; padding: 3px; margin: 20px 0;">
-      <div style="background: #ffffff; border-radius: 10px; padding: 16px 32px; text-align: center;">
-        <strong style="font-size: 18px; color: #2C7CB6;">🔗 访问我的个人主页</strong><br/>
-        <span style="color: #4A5568; font-family: monospace; font-size: 15px;">czhao.xyz/zh</span><br/>
-        <span style="color: #718096; font-size: 13px;">完整背景 · 技术栈 · 项目详情 · 最新动态</span>
-      </div>
+    <div style="display: inline-flex; align-items: center; background: linear-gradient(135deg, #2C7CB6 0%, #1E5A8A 100%); border-radius: 50px; padding: 14px 28px; margin: 20px 0;">
+      <span style="font-size: 18px; margin-right: 10px;">🚀</span>
+      <span style="font-size: 16px; font-weight: 600; color: #ffffff; letter-spacing: 0.5px;">探索我的个人主页</span>
+      <span style="font-size: 16px; margin-left: 10px; color: #ffffff;">→</span>
     </div>
   </a>
+  <p style="color: #718096; font-size: 13px; margin-top: 8px;">完整背景 · 技术栈 · 项目详情 · 最新动态</p>
 </div>
 
 ---

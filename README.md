@@ -21,8 +21,8 @@
     <div style="display: inline-block; background: linear-gradient(135deg, #2C7CB6 0%, #1E5A8A 100%); border-radius: 16px; padding: 3px; margin: 20px 0;">
       <div style="background: #ffffff; border-radius: 14px; padding: 24px 40px; text-align: center;">
         <div style="font-size: 28px; margin-bottom: 10px;">🚀</div>
-        <span> <strong style="font-size: 18px; color: #2C7CB6; display: block; margin-bottom: 8px;">我的个人主页</strong> </span>
-        <span style="color: #718096; font-size: 14px; line-height: 1.6;">在这里查看完整背景、技术栈、项目详情与最新动态</span>
+        <p style="font-size: 18px; color: #2C7CB6; font-weight: bold; margin: 0 0 8px 0;">我的个人主页</p>
+        <p style="color: #718096; font-size: 14px; line-height: 1.6; margin: 0;">在这里查看完整背景、技术栈、项目详情与最新动态</p>
       </div>
     </div>
   </a>

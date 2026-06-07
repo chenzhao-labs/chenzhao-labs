@@ -5,11 +5,11 @@
 
 <div align="center">
   <a href="https://czhao.xyz/zh" target="_blank">
-    <img src="https://img.shields.io/badge/Website-czhao.xyz-2C7CB6?labelColor=2D333B&style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-czhao.xyz-0EA5E9?labelColor=E0F2FE&style=flat&logo=googlechrome&logoColor=0369A1" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-AI_App_Development-2C7CB6?labelColor=2D333B&style=for-the-badge&logo=robotframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/Field-Medical_AI-2C7CB6?labelColor=2D333B&style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Under_Construction-2C7CB6?labelColor=2D333B&style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-AI_App_Development-0EA5E9?labelColor=E0F2FE&style=flat&logo=robotframework&logoColor=0369A1" />
+  <img src="https://img.shields.io/badge/Field-Medical_AI-0EA5E9?labelColor=E0F2FE&style=flat&logo=python&logoColor=0369A1" />
+  <img src="https://img.shields.io/badge/Status-Under_Construction-0EA5E9?labelColor=E0F2FE&style=flat&logo=rocket&logoColor=0369A1" />
 </div>
 
 ---
@@ -21,7 +21,7 @@
     <div style="display: inline-block; background: linear-gradient(135deg, #2C7CB6 0%, #1E5A8A 100%); border-radius: 16px; padding: 3px; margin: 20px 0;">
       <div style="background: #ffffff; border-radius: 14px; padding: 24px 40px; text-align: center;">
         <div style="font-size: 28px; margin-bottom: 10px;">🚀</div>
-        <strong style="font-size: 18px; color: #2C7CB6; display: block; margin-bottom: 8px;">我的个人主页</strong>
+        <span> <strong style="font-size: 18px; color: #2C7CB6; display: block; margin-bottom: 8px;">我的个人主页</strong> </span>
         <span style="color: #718096; font-size: 14px; line-height: 1.6;">在这里查看完整背景、技术栈、项目详情与最新动态</span>
       </div>
     </div>

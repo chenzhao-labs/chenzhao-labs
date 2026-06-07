@@ -5,11 +5,11 @@
 
 <div align="center">
   <a href="https://czhao.xyz/zh" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Website-czhao.xyz-2D333B-2C7CB6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-czhao.xyz-2C7CB6?labelColor=2D333B&style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/🤖_Focus-AI_App_Development-2D333B-2C7CB6?style=for-the-badge&logo=robotframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/💻_Field-Medical_AI-2D333B-2C7CB6?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/🚀_Status-Under_Construction-2D333B-2C7CB6?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-AI_App_Development-2C7CB6?labelColor=2D333B&style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/Field-Medical_AI-2C7CB6?labelColor=2D333B&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Under_Construction-2C7CB6?labelColor=2D333B&style=for-the-badge&logo=rocket&logoColor=white" />
 </div>
 
 ---
@@ -18,13 +18,14 @@
 
 <div align="center">
   <a href="https://czhao.xyz/zh" target="_blank" style="text-decoration: none;">
-    <div style="display: inline-flex; align-items: center; background: linear-gradient(135deg, #2C7CB6 0%, #1E5A8A 100%); border-radius: 50px; padding: 14px 28px; margin: 20px 0;">
-      <span style="font-size: 18px; margin-right: 10px;">🚀</span>
-      <span style="font-size: 16px; font-weight: 600; color: #ffffff; letter-spacing: 0.5px;">探索我的个人主页</span>
-      <span style="font-size: 16px; margin-left: 10px; color: #ffffff;">→</span>
+    <div style="display: inline-block; background: linear-gradient(135deg, #2C7CB6 0%, #1E5A8A 100%); border-radius: 16px; padding: 3px; margin: 20px 0;">
+      <div style="background: #ffffff; border-radius: 14px; padding: 24px 40px; text-align: center;">
+        <div style="font-size: 28px; margin-bottom: 10px;">🚀</div>
+        <strong style="font-size: 18px; color: #2C7CB6; display: block; margin-bottom: 8px;">我的个人主页</strong>
+        <span style="color: #718096; font-size: 14px; line-height: 1.6;">在这里查看完整背景、技术栈、项目详情与最新动态</span>
+      </div>
     </div>
   </a>
-  <p style="color: #718096; font-size: 13px; margin-top: 8px;">完整背景 · 技术栈 · 项目详情 · 最新动态</p>
 </div>
 
 ---

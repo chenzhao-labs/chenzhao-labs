@@ -14,10 +14,66 @@
 
 ---
 
-### 🚀 About Me
+### 👋 关于这里
 
-```text
-📌 全栈开发者 | 开源爱好者 | 技术写作
-🌍 坐标：数字世界的探索者
-🎯 目标：构建优雅、高效的产品与体验
-✨ 信念：代码是思想的延伸
+这个 GitHub 账号是我的**代码仓库**和**学习记录**的存放地：
+
+- 📁 项目源码与实验代码
+- 📝 学习笔记与技术随笔
+- 🔄 持续更新中...
+
+---
+
+### 🌐 更多关于我
+
+想了解我的完整背景、技术栈、项目详情和最新动态？
+
+<div align="center">
+  
+  <a href="https://czhao.xyz/zh">
+    <img src="https://img.shields.io/badge/🔗_欢迎访问我的个人主页-czhao.xyz/zh-2C7CB6?style=for-the-badge&logo=about.me&logoColor=white" />
+  </a>
+  
+  <br/>
+  
+  <sub>👉 那里有更详细的介绍 👈</sub>
+  
+</div>
+
+---
+
+### 📊 GitHub 统计
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ChenZhao&show_icons=true&theme=vue&hide_border=true&bg_color=00000000" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenZhao&layout=compact&theme=vue&hide_border=true&bg_color=00000000" height="150" />
+  
+</div>
+
+---
+
+### 🤝 联系
+
+<div align="center">
+  
+  <a href="https://github.com/ChenZhao">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://czhao.xyz/zh">
+    <img src="https://img.shields.io/badge/个人主页-2C7CB6?style=for-the-badge&logo=GoogleChrome&logoColor=white" />
+  </a>
+  
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ChenZhao&label=👀%20Views&color=2&icon=5&pretty=true" />
+</div>
+
+<div align="center">
+  <sub>
+    📌 完整介绍请移步 → <a href="https://czhao.xyz/zh">czhao.xyz/zh</a>
+  </sub>
+</div>

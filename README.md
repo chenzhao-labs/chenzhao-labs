@@ -1,59 +1,56 @@
 <div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3000&pause=500&color=2C7CB6&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Chen+Zhao" alt="Typing SVG" />
-  
-  <!-- 徽章区域 -->
-  <p>
-    <img src="https://img.shields.io/badge/🌐-czhao.xyz-2C7CB6?style=flat-square&logo=GoogleChrome&logoColor=white" />
-    <img src="https://img.shields.io/badge/🤖-AI 应用开发-2C7CB6?style=flat-square" />
-    <img src="https://img.shields.io/badge/💻-Medical AI-239120?style=flat-square&logo=javascript&logoColor=white" />
-    <img src="https://img.shields.io/badge/🚀-持续建设中-F5B042?style=flat-square" />
-  </p>
-  
+  <!-- 打字机动画：优化了字体和轮播文案 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=500&color=2C7CB6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Chen+Zhao;AI+Application+Developer;Medical+AI+Explorer;Building+the+future+with+code" alt="Typing SVG" />
 </div>
-
----
-
-### 🌐 更多关于我
-
-想了解我的完整背景、技术栈、项目详情和最新动态？
 
 <div align="center">
-  
-  <!-- 重新设计的醒目个人主页引导卡片 -->
-  <a href="https://czhao.xyz/zh" target="_blank" style="text-decoration: none;">
-    <table style="background: linear-gradient(135deg, #2C7CB6 0%, #1E5A8A 100%); border-radius: 16px; padding: 4px; margin: 16px auto;">
-      <tr>
-        <td align="center" style="border-radius: 12px; background: white; padding: 16px 32px;">
-          <strong style="font-size: 18px; color: #2C7CB6;">🔗 访问我的个人主页</strong><br/>
-          <span style="color: #4A5568;">czhao.xyz/zh</span><br/>
-          <span style="color: #718096; font-size: 13px;">完整背景 · 技术栈 · 项目详情 · 最新动态</span>
-        </td>
-      </tr>
-    </table>
+  <!-- 徽章区域：改用 for-the-badge 样式，视觉更醒目，个人网站增加了点击跳转 -->
+  <a href="https://czhao.xyz/zh" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Personal_Website-czhao.xyz-2C7CB6?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  
+  <img src="https://img.shields.io/badge/🤖_AI_App_Development-2C7CB6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻_Medical_AI-239120?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/🚀_Under_Construction-F5B042?style=for-the-badge" />
 </div>
 
 ---
 
-### 👋 关于这里
+### 🔗 探索我的个人主页
+
+<div align="center">
+  <a href="https://czhao.xyz/zh" target="_blank" style="text-decoration: none;">
+    <div style="display: inline-block; background: linear-gradient(135deg, #2C7CB6 0%, #1E5A8A 100%); border-radius: 12px; padding: 3px; margin: 20px 0;">
+      <div style="background: #ffffff; border-radius: 10px; padding: 16px 32px; text-align: center;">
+        <strong style="font-size: 18px; color: #2C7CB6;">🔗 访问我的个人主页</strong><br/>
+        <span style="color: #4A5568; font-family: monospace; font-size: 15px;">czhao.xyz/zh</span><br/>
+        <span style="color: #718096; font-size: 13px;">完整背景 · 技术栈 · 项目详情 · 最新动态</span>
+      </div>
+    </div>
+  </a>
+</div>
+
+---
+
+### 📂 关于这个账号
 
 这个 GitHub 账号是我的**代码仓库**和**学习记录**的存放地：
 
-- 📁 项目源码与实验代码
-- 📝 学习笔记与技术随笔
-- 🔄 持续更新中...
+- 📁 **项目源码**：AI 应用开发、Medical AI 实验代码与开源项目
+- 📝 **学习笔记**：技术随笔、踩坑记录与知识沉淀
+- 🔄 **持续更新**：保持对新技术的探索与实践
 
 ---
 
-### 📊 GitHub 统计
+### 📊 GitHub 统计数据
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ChenZhao&show_icons=true&theme=vue&hide_border=true&bg_color=00000000" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenZhao&layout=compact&theme=vue&hide_border=true&bg_color=00000000" height="150" />
-  
+  <!-- 方案二：稳定备用方案 (不依赖 Vercel，国内网络也能秒开) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chenzhao-labs&theme=vue&hide_border=true&stroke=0000" height="160" />
+  <img src="https://ghchart.rshah.org/2C7CB6/chenzhao-labs" alt="Github Commits Graph" height="160" />
 </div>
 
 ---
+
+<div align="center">
+  <sub>© 2026 Chen Zhao. Built with ❤️ and ☕.</sub>
+</div>

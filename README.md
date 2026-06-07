@@ -4,13 +4,12 @@
 </div>
 
 <div align="center">
-  <!-- 徽章区域：改用 for-the-badge 样式，视觉更醒目，个人网站增加了点击跳转 -->
   <a href="https://czhao.xyz/zh" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Personal_Website-czhao.xyz-2C7CB6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_Website-czhao.xyz-2D333B-2C7CB6?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/🤖_AI_App_Development-2C7CB6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💻_Medical_AI-239120?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/🚀_Under_Construction-F5B042?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖_Focus-AI_App_Development-2D333B-2C7CB6?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/💻_Field-Medical_AI-2D333B-2C7CB6?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/🚀_Status-Under_Construction-2D333B-2C7CB6?style=for-the-badge&logo=rocket&logoColor=white" />
 </div>
 
 ---

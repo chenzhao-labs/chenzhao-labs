@@ -22,7 +22,7 @@
       <div style="background: #ffffff; border-radius: 14px; padding: 24px 40px; text-align: center;">
         <div style="font-size: 28px; margin-bottom: 10px;">🚀</div>
         <p style="font-size: 18px; color: #2C7CB6; font-weight: bold; margin: 0 0 8px 0;">我的个人主页</p>
-        <p style="color: #718096; font-size: 14px; line-height: 1.6; margin: 0;">在这里查看完整背景、技术栈、项目详情与最新动态</p>
+        <p style="color: #718096; font-size: 14px; line-height: 1.6; margin: 0; text-decoration: none;">在这里查看完整背景、技术栈、项目详情与最新动态</p>
       </div>
     </div>
   </a>
